@@ -21,4 +21,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
 
 ### GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kure2323&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polete-bermejo&theme=github_dark)
