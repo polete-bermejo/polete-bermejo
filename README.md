@@ -20,5 +20,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
 
+### Currently Learning
+![Rust](https://img.shields.io/badge/-Rust-lang?style=flat\&logo=rust)
+
+
 ### GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polete-bermejo&theme=github_dark)
+![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polete-bermejo&theme=github_dark&animation=draw)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polete-bermejo&show_icons=true&hide_rank=true&theme=github_dark&show=prs_merged&hide=stars&hide_border=true)
+
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polete-bermejo&theme=github_dark&animation=draw) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=polete-bermejo&theme=github_dark&timeZone=Europe/Madrid&animation=draw)
